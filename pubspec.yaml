@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   http:
-  pay: ^1.1.2
+  pay: 1.1.2
   webview_flutter: ^4.5.0
 
 dev_dependencies:
